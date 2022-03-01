@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The braineles blessing of the bull the hornes, the heads and all, light on their squint eyed skonses full that boweth their knees to ball.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1570</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00563</idno>
+            <idno type="STC">STC 19974.1</idno>
+            <idno type="STC">Interim Tract Supplement Guide Huth 50[48]</idno>
+            <idno type="EEBO-CITATION">99892893</idno>
+            <idno type="PROQUEST">ocm99892893</idno>
+            <idno type="VID">182363</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182363)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:4[47])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The braineles blessing of the bull the hornes, the heads and all, light on their squint eyed skonses full that boweth their knees to ball.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted at S. Katherins beside the Tower of London, ouer against the Beare daunce, by Alexander Lacie,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1570]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Of 27 April 1570, Regnans in excelsis. Cf. STC.</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Verse: "The cancred curse that wolde consume this realme with wracke and ruine ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pius --  V, --  Pope, 1504-1572 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182363:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <l>¶The braineles bleſſing of the Bull</l>
+               <l>The hornes, the heads and all,</l>
+               <l>Light on their ſquint eyed ſkonſes full</l>
+               <l>That boweth their knees to Ball.</l>
+            </head>
+            <head type="sub">
+               <l>The cancred curſe that wolde conſume this realme with wracke and ruine,</l>
+               <l>Returne to Rome with fyre and fume, to bryng the Pope in tune:</l>
+               <l>If neither curſe, nor bleſſyng bare, may mend theſe parties throwe,</l>
+               <l>I then bequeath (curſt as they are) to Plutoes kyngdome nowe.</l>
+            </head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">W</seg>AS</hi> neuer worlde ſo farre from orders rule,</l>
+               <l>That men durſt ſpeake ſuch ſawcie words of Kings</l>
+               <l>Nor neuer Pope ſo lyke an Aſſe or Mule,</l>
+               <l>Or dunghyll Cocke to crow and clap his winges.</l>
+               <l>Stand backe good dogs, the Bul he leapes &amp; flinges</l>
+               <l>He bleates and bleathes as he a baightyng were,</l>
+               <l>And fomes at mouth, lyke Boare with briſtled heare.</l>
+               <l>A beaſtlye ſound, comes runnyng from his paunch,</l>
+               <l>He beates the ground with foote, with hip and haunch:</l>
+               <l>As though hell gates ſhould open at his call,</l>
+               <l>And at his becke, the heauens high ſhould fall.</l>
+            </lg>
+            <lg>
+               <l>¶O Sathans ſonne, O Pope puft vp with pryde,</l>
+               <l>What makes thée clayme the clowdes where God doth dwel?</l>
+               <l>When thou art knowne the glorious gréedie guyde</l>
+               <l>That leades in pompe poore ſéelye ſoules to hell.</l>
+               <l>The pumpe of ſhip hath not ſo fowle a ſmell</l>
+               <l>As hath the ſmoke and fume that flames from thée,</l>
+               <l>O graceles grace, O rotten hollow trée.</l>
+               <l>The branches bud, but neuer bryng forth leaues,</l>
+               <l>Thy come is dead, when Reaper lookes for ſheaues:</l>
+               <l>Thy golde is glaſſe, and gliſtereth gay a whyle,</l>
+               <l>Tyll tromperie comes, and makes the worlde to ſmyle.</l>
+            </lg>
+            <lg>
+               <l>¶Who bad thée bliſſe? O Buzzarde blynd of ſight,</l>
+               <l>Buylt God his church vpon ſuch clots of clay?</l>
+               <l>Thou doeſt blaſpheme thereby the <hi>GOD</hi> of might,</l>
+               <l>And robbeſt with craft his honour cleane away.</l>
+               <l>Curſe whome thou liſt, he better thryues that day,</l>
+               <l>Bleſſe whome thou wylt, and I dare gage my head:</l>
+               <l>For all thy charmes, he brynges a foole to bed.</l>
+               <l>Booke bell and ſyſe, are bables fit for thoſe</l>
+               <l>That gape for flyes, where Waſpes and Hornets blowes,</l>
+               <l>The pardonies boxe, wherein thy reliques lye,</l>
+               <l>Doth ſmell lyke Fox, or Swyne ſhut vp in ſtye.</l>
+            </lg>
+            <lg>
+               <l>¶A Pope was wont to be an odious name</l>
+               <l>Within our land, and ſcrapt out of our ſcroules,</l>
+               <l>And now the Pope is growne ſo farre paſt ſhame</l>
+               <l>That he can walke with open face in Poules.</l>
+               <l>Go home mad Bull to Rome, and pardon ſoules</l>
+               <l>That pyne away in Purgatorie paynes,</l>
+               <l>Go triumph there, where credit moſt remaines.</l>
+               <l>Thy date is out in England long ago,</l>
+               <l>For Ridley gaue the Bull ſo great a blow</l>
+               <l>He neuer durſt apeach this land tyll now,</l>
+               <l>In bullyng time, he met with Hardyngs Cow.</l>
+            </lg>
+            <lg>
+               <l>¶A Calfe or twayne hath here ben gotten ſince,</l>
+               <l>Whoſe heades were ſolde of late in butcher row</l>
+               <l>Come cheape Calues heads, and bring in Peter pence,</l>
+               <l>Though ſome are bought, our butchers looke for mo.</l>
+               <l>For Walthams calues, to Tiburne néedes muſt go</l>
+               <l>To ſucke a bull, and méete a butchers axe,</l>
+               <l>The Shambles full is ſtuft, with prettie knacks:</l>
+               <l>As Goate, and Lambe, and Shepe of thrée ſcore yeare,</l>
+               <l>We haue good hope, calues heads wyll not be deare</l>
+               <l>If Hardyngs cow be bulled as ſhée ought,</l>
+               <l>Calues heads enough for little wyll be bought.</l>
+            </lg>
+            <lg>
+               <l>¶The Pope doth nought, but practize miſcheif ſtyll,</l>
+               <l>And lets his Bul runne ryot for his eaſe:</l>
+               <l>But whiles his Calues are drawne vp Holborne hyll,</l>
+               <l>Both Bull and Cow are ſafe beyond the ſeas.</l>
+               <l>O that it might our holy father pleaſe</l>
+               <l>To come himſelfe, and hang but halfe an hower,</l>
+               <l>With ſuch poore fréendes as here maintaine his power.</l>
+               <l>I ſay no more, for feare the babes awake</l>
+               <l>That holde with Pope, and hang for Hardyngs ſake,</l>
+               <l>Some knackes now lurkes, that we ſhal know ful playne,</l>
+               <l>When Hoballes Oxe bulles Hardyngs cow agayne.</l>
+            </lg>
+            <lg>
+               <l>¶I ſcorne to write a vearce in any frame,</l>
+               <l>To anſwer wordes that rayled haue ſo much</l>
+               <l>Yet baightyng oft, may make a Bull ſo tame</l>
+               <l>That euery dog that comes, may haue a twitch.</l>
+               <l>I here proteſt, if that my power were ſuch</l>
+               <l>By pen or ſkyll, to chaffe the Bull at ſtake,</l>
+               <l>I wolde be glad ſome further ſporte to make.</l>
+               <l>But ſince I want the cunnyng and the arte,</l>
+               <l>To baight the beaſt, and play the Maſtiffs parte:</l>
+               <l>Let this ſuffiſe to let you thinke in déede,</l>
+               <l>I hate the Bull, and all the Romiſh bréede.</l>
+            </lg>
+            <trailer>¶ FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶Imprinted at S. Katherins beſide the Tower of London, ouer againſt the Beare daunce, by Alexander Lacie.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
